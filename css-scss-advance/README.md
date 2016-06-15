@@ -18,3 +18,8 @@
 * What are mixins? How to define and use them in sass?
 * How to extend a style declaration in sass?
 * What operators are there in sass? How to use them?
+
+#### References
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+- http://sass-lang.com/guide
+- https://sass-guidelin.es/

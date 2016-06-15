@@ -11,3 +11,8 @@
 * CSS shorthand.
 * CSS reset.
 CSS rule override.
+
+#### References
+- https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
+- http://www.csstutorial.net/css-intro/introductioncss-part1.php
+- http://www.cssbasics.com/
