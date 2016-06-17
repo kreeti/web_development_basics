@@ -14,6 +14,6 @@ Candidates will be divided in two batches. Contact us to know your batch detail.
 | Rails Intermediate   | 25<sup>th</sup> July 2016  | A + B  | 1<sup>st</sup> August 2016  | A + B |
 | Rail Project Extension    | Avaialble from 26<sup>th</sup> July, 2016 for those who have cleared Rails Basic | A + B  | Can be done simultaneously along with test, candidates need to submit within 1 week of getting the project | A + B |
 | React Basics  | 26<sup>th</sup> July 2016  | A + B  | 2<sup>nd</sup> August 2016  | A + B |
-| Rail  +  React Projects  | Available from 3<sup>rd</sup> August 2016 for those who have cleared rails Advance & React Basics | A + B  | | A + B |
+| Rail  +  React Projects  | Available from 3<sup>rd</sup> August 2016 for those who have cleared Rails Intermediate & React Basics | A + B  | | A + B |
 | Rails Advance | 5<sup>th</sup> August 2016 | A + B  | 16<sup>th</sup> August 2016 | A + B |
 | React - Advanced | 8<sup>th</sup> August 2016 | A + B  | 17<sup>th</sup> August 2016 | A + B |
