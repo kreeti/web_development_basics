@@ -29,3 +29,7 @@ __Links__
 __Links__
 *   [redislabs] (https://redislabs.com/)
 *   [eviction strategies] (https://redislabs.com/redis-enterprise-documentation/database-configuration/database-eviction-policy)
+
+__Exercises__
+*  <a href="./rdbms_exercise.md">RDBMS</a>
+*  <a href="./redis_exercise.md">REDIS</a>
