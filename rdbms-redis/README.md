@@ -32,4 +32,4 @@ __Links__
 
 __Exercises__
 *  <a href="./rdbms_exercise.md">RDBMS</a>
-*  <a href="./redis_exercise.md">REDIS</a>
+*  <a href="./redis_exercise.md">Redis</a>

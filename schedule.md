@@ -3,7 +3,7 @@ Candidates will be divided in two batches. Contact us to know your batch detail.
 | Subject     |     Class     |    Batch |    Recommended Test Dates     |   Batch |
 | -------------  | -------------    | -------------     |  -----   | ----- |
 | HTML Basic, CSS Basic, HTML Advance  |    21<sup>st</sup> June 2016  |  B   | Sometime in June |  |
-| Javascript Intermediate       |    22<sup>nd</sup> June 2016     |  B   | 4<sup>th</sup> July 2016 | A + B |
+| Javascript |    22<sup>nd</sup> June 2016     |  B   | 4<sup>th</sup> July 2016 | A + B |
 | RDBMS / Redis - NOSQL  | 23<sup>rd</sup> June 2016  | A + B  | 4<sup>th</sup> July  2016   | A + B |
 | Ruby   | 5<sup>th</sup> July 2016   | A + B  | 11<sup>th</sup> July 2016   | A + B |
 | CSS/SCSS Advanced | 6<sup>th</sup> July 2016   | A + B  | 11<sup>th</sup> July 2016   | A + B |
