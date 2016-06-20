@@ -12,3 +12,5 @@
 10. <a href="/react-basic">React Basics</a>
 11. <a href="/rails-advance">Rails Advance</a>
 12. <a href="/react-advance">React Advance</a>
+
+http://www.w3schools.com/ is a good reference / review source for HTML, CSS, JavaScript and SQL.
