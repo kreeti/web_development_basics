@@ -16,3 +16,6 @@ CSS rule override.
 - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
 - http://www.csstutorial.net/css-intro/introductioncss-part1.php
 - http://www.cssbasics.com/
+
+__Exercises__
+*  <a href="./css_exercise.md">Css</a>

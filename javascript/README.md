@@ -33,3 +33,6 @@
 - http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
 - http://blog.jhades.org/really-understanding-javascript-closures/
 - http://www.crockford.com/javascript/inheritance.html
+
+__Exercises__
+*  <a href="./exercise.md">JavaScript</a>

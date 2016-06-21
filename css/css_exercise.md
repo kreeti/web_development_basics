@@ -1,39 +1,31 @@
-1. How to align item?
+##CSS Exercises
 
-2. How to set the background-color of different elements?
+1. Explain about CSS Box Model.
 
-3. How to set the background-color of different elements?
+2. What is z-index in CSS? Explain with example.
 
-4. How to set the position of a background-image?
+3. Describe in detail about CSS positioning.
 
-5. How to set the position of a background-image?
+4. How to set the text alignment for elements?
 
-6. How to repeat background image?
+5. How to set the background-color of different elements?
 
-7. How to sets all the border properties in one declaration?
+6. How to set the position of a background-image?
 
-8. How to set the color of the four borders?
+7. How to repeat background image?
 
-9. How to set the style of the left border?
+8. How to sets all the border properties in one declaration?
 
-10. How to set box-shadow to a division element?
+9. How to set the color of the four borders?
+
+10. How to set box-shadow to a div element?
 
 11. How to prevent any element to be floated on the left or right side of paragraph element?
 
 12. How to set the text-color for different elements?
 
-13. How to specify the placement of a table caption?
+13. How to display paragraph elements as inline elements?
 
-14. How to specify the width, style and color of the rule between columns?
+14. How to specify all the font properties in one declaration?
 
-15. How to set a number sections and sub-sections with Section?
-
-16. How to display paragraph elements as inline elements?
-
-17. How to specify all the font properties in one declaration?
-
-18. How to set the text alignment for elements
-
-19. How to use text-overflow property
-
-20. How to set vertical align property of an element
+15. How to use text-overflow property?
