@@ -14,3 +14,6 @@
 - http://www.sapphiresteel.com/IMG/pdf/LittleBookOfRuby.pdf
 - http://www.tutorialspoint.com/ruby/index.htm
 - http://rubylearning.com/satishtalim/tutorial.html
+
+__Exercises__
+*  <a href="./ruby_exercise.md">Ruby</a>

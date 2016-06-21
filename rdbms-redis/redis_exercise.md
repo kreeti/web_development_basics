@@ -1,3 +1,5 @@
+## REDIS Exercises
+
 1. After executing following three commands in REDIS what’ll be the o/p of last command? Describe all of the commands.
     * zadd('zset-1', 'a', 1, 'b', 2, 'c', 3)
     * zadd('zset-2', 'b', 4, 'c', 1, 'd', 0)
