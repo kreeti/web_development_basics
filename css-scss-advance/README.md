@@ -23,3 +23,6 @@
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
 - http://sass-lang.com/guide
 - https://sass-guidelin.es/
+
+__Exercises__
+*  <a href="./css_scss_exercise.md">CSS & SCSS</a>
