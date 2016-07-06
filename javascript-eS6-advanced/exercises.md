@@ -79,8 +79,7 @@ DOM and Events
 
 ES6
 -------------------
-1. Create an array that takes an array of functions, each function when called returns its index in the array.
-    *Hint: `arrayOfFuncs.push(function() { console.log(i) })`*
+1. Create a function that takes an array of functions. Iterate over the array and execute each function. Each of those functions when called returns its index in the array. *Hint: `arrayOfFuncs.push(function() { console.log(i) }) executeAll(arrayOfFuncs)`*
 2. Using es6 arrow syntax and an array of 5 numbers, create another functions with each elements doubled
 3. Given this object
     ```javascript
