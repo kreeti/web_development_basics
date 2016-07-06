@@ -80,7 +80,9 @@ DOM and Events
 ES6
 -------------------
 1. Create a function that takes an array of functions. Iterate over the array and execute each function. Each of those functions when called returns its index in the array. *Hint: `arrayOfFuncs.push(function() { console.log(i) }) executeAll(arrayOfFuncs)`*
+
 2. Using es6 arrow syntax and an array of 5 numbers, create another functions with each elements doubled
+
 3. Given this object
     ```javascript
         var Game = {
@@ -96,9 +98,13 @@ ES6
 
     *(Use es6 arrow when necessary)*
     Excepted output: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+
 4. Show destructing of an array and object.
+
 5. Write a method `formatDate` that takes `year`, `month`, `day` and an optional `separator` and formats the date like `year<separator>month<separator>day<separator>`, by default, the separator should be `/`;
+
 6. What is Promise ? How to convert a value into a Promise ? What is the use of Promise.all and Promise.reject ?
+
 
 ajax using jquery
 -------------------------------
