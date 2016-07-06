@@ -92,7 +92,7 @@ ES6
             }
         }
     ```
-    Write the bounce method that increases the value of bounced from 0 upto the `limit` adding the `bounceFactor` each time, at an interval of 1 second(1000 ms). Clear the interval after the value of `bounced` has reached the `limit`.
+    Write the bounce method that increases the value of bounced from 0 upto the `limit` adding the `bounceFactor` each time, at an interval of 1 second(1000 ms). Stop the counter after the value of `bounced` has reached the `limit`.
 
     *(Use es6 arrow when necessary)*
     Excepted output: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
