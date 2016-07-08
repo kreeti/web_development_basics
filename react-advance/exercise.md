@@ -36,20 +36,22 @@
 
 8. Without using react, use redux to make a counter which increments the value by 1 every second and renders it in the browser.
 
-9. what is the utility of `combineReducers` and `dispatch` method ?
+9. what is the utility of `combineReducers` and `dispatch` method in redux ?
 
-10. What is babel ?
+10. What is a `store` in redux? Show an example
 
-11. Write a gulp or webpack or brunch script to transpile all your javascript codes in `src/` directory and put them in `dist` directory.
+11. What are `action`s in redux?
 
-12. Also try to put all your js files in one file from the above step.
+11. What is babel ?
 
-13. What is a .map file ? What would happen if there were no map files for all of your minified code?
+13. Write a gulp or webpack or brunch script to transpile all your javascript codes in `src/` directory and put them in `dist` directory.
 
-14. Use redux and react and react-router to make a todo app.
+14. What is a .map file ? What would happen if there were no map files for all of your minified code?
+
+15. Use redux and react and react-router to make a todo app.
     where redux has two stores, `todos` and `currentTodo`, `todos` is an array of objects, containing `text`, `time`, `completed` and `id`,
     and `currentTodo` returns the `id` of the todo being viewed. `id`s are assigned as todos.length + 1.
-    The UI will have an interface to `create` a todo, display a list of todos at the bottom. 
+    The UI will have an interface to `create` a todo, display a list of todos at the bottom.
     Clicking on a todo opens the todo in a separate page and also provides an options to delete a todo from list.
     One can sort the todos by completed or time. By default the todos should be sorted by oldest uncompleted first.
 
