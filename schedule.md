@@ -8,6 +8,8 @@ Test Timings
 * Batch A: 09:30 AM
 * Batch B: 10:15 AM
 
+Please make sure that you report at least 10 minutes before the scheduled time.
+
 | Subject                                                                                  | Class                                                                        | Batch | Exercise Solution Class| Recommended Test Dates                                                                                    | Batch |
 |------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|-------|-----------------------|------------------------------------------------------------------------------------------------------------|-------|
 | HTML Basic                                CSS Basic                        HTML Advance  | 21 June 2016                                                                 | B     |                       |                                                                                                            |       |
