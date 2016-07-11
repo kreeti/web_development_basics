@@ -1,5 +1,13 @@
 Candidates will be divided in two batches. Contact us to know your batch detail.
 
+Class Timings
+* Batch A: 10:30 AM
+* Batch B: 03:30 PM
+
+Test Timings
+* Batch A: 09:30 AM
+* Batch B: 10:15 AM
+
 | Subject                                                                                  | Class                                                                        | Batch | Exercise Solution Class| Recommended Test Dates                                                                                    | Batch |
 |------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|-------|-----------------------|------------------------------------------------------------------------------------------------------------|-------|
 | HTML Basic                                CSS Basic                        HTML Advance  | 21 June 2016                                                                 | B     |                       |                                                                                                            |       |
