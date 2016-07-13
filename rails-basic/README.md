@@ -15,6 +15,7 @@
 ##Reference guide
 - http://guides.rubyonrails.org/
 - http://api.rubyonrails.org/
+- https://www.railstutorial.org/book/
 
 __Exercises__
 *  <a href="./rails_exercise.md">Rails Basic</a>
