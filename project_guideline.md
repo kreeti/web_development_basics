@@ -9,11 +9,12 @@
 * The look and feel of the web page should be responsive and as per the UI provided by us.
 You can use the Responsive Design View available in major browsers (Firefox in particular).
 
-* Bootstrap framework should be used for the layout and wherever else possible.
+* Bootstrap framework should be used for the layout and styling.
 * HTML and CSS should be written manually and not with the help of some editor or code generator.
-* HTML and CSS should be valid. To check the validation you can use:
-  HTML - https://validator.w3.org/
-  CSS - https://jigsaw.w3.org/css-validator/
+* HTML and CSS should be valid.
+  To check the validation you can use:
+   * HTML - https://validator.w3.org/
+   * CSS - https://jigsaw.w3.org/css-validator/
 * HTML and CSS should be semantic and properly indented.
 * No inline styles should be used.
 
@@ -25,7 +26,7 @@ You can use the Responsive Design View available in major browsers (Firefox in p
 * Use boolean tests: don't use "and" and "or", always use "&&" and "||"
 * If anything is obvious - don't explain it.
 * Remove old commented code.
-* All variables and function names are "Snake Case" (lowercasse_words_seperated_by_underscore)
+* All variables and function names are "Snake Case" (lowercase_words_seperated_by_underscore)
 * All Class Names are Camel Case: ClassName
 * All constants should be like ALL_UPPERCASE = true
 * Avoid negated conditions
