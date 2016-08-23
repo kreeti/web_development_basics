@@ -10,7 +10,7 @@ Test Timings
 
 Please make sure that you report at least 10 minutes before the scheduled time.
 
-| Subject   | Class   | Batch | Exercise Solution Class| Recommended Test Dates     | Batch |
+| Subject   | Class   | Batch | Review / Exercise Solution Class| Recommended Test Dates     | Batch |
 |------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|-------|-----------------------|------------------------------------------------------------------------------------------------------------|-------|
 | HTML Basic        CSS BasicHTML Advance  | 21 June 2016        | B     |  |      |       |
 | Javascript Intermediate| 22 June 2016        | B     | 8 July 2016  | 4 July 2016      | A+B   |
@@ -25,4 +25,4 @@ Please make sure that you report at least 10 minutes before the scheduled time.
 | React Basics        | 10 August 2016, 18 August 2016       | A+B   ||   | A+B   |
 | Rail + React Projects  | Available from 19th August 2016 who have cleared rails Advance & React Basics | A+B   |        |      | A+B   |
 | Rails Advance       | 19 August 2016      | A+B   | 25 August 2016        | 30 August 2016   | A+B   |
-| React - Advanced    | 22 August 2016      | A+B   | 31 August 2016        |   | A+B   |
+| React - Advanced    | 22 August 2016      | A+B   | 2 September 2016        |   | A+B   |
