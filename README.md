@@ -15,3 +15,5 @@
 <a href="/project_guideline.md">Project Guidelines</a>
 
 http://www.w3schools.com/ is a good reference / review source for HTML, CSS, JavaScript and SQL.
+
+Please do not just read through the topics, please practice and try to do the exercises as well.

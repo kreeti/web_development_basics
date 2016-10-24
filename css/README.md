@@ -1,16 +1,17 @@
 ##CSS
-* Definition of CSS.
-* CSS Syntax.
-* Types of CSS.
-* What is selectors.
-* Types of selectors.
-* CSS properties and values.
-* CSS specificity.
-* Float, Position, Display.
-* Clearing float.
-* CSS shorthand.
+* Purpose of CSS, CSS Syntax.
+* How to use CSS in a page.
+* What are selectors, different Types of selectors. CSS Level 2 Selectors
+* CSS properties and values. CSS shorthand
+* CSS specificity and rule overridding.
+* Floating of Blocks
+* CSS Box Model
+* CSS Positioning
+* CSS Box sizing
+* z-index
+* Clearing floats
 * CSS reset.
-CSS rule override.
+
 
 #### References
 - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
@@ -18,4 +19,4 @@ CSS rule override.
 - http://www.cssbasics.com/
 
 __Exercises__
-*  <a href="./css_exercise.md">Css</a>
+*  <a href="./css_exercise.md">CSS</a>

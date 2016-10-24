@@ -10,7 +10,7 @@
 * DOM and JavaScript. How Do I Access the DOM?
 * Events (Types and ways to handle)
 * Event Loop
-* Handling Asynchronous requests in Javascript
+* Handling Asynchronous requests in Javascript, Ajax
 
 ### ES6 features
 * Arrow Functions
