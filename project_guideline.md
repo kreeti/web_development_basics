@@ -66,3 +66,5 @@ end
 @user.name ||= ''
 
 ```
+
+## <a href="https://github.com/kreeti/coding_convention">Coding Convention</a>
