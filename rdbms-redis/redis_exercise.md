@@ -1,10 +1,10 @@
 ## REDIS Exercises
 
 1. After executing following three commands in REDIS what’ll be the o/p of last command? Describe all of the commands.
-    * zadd('zset-1', 'a', 1, 'b', 2, 'c', 3)
-    * zadd('zset-2', 'b', 4, 'c', 1, 'd', 0)
-    * zinterstore('zset-i', ['zset-1', 'zset-2'])
-    * zrange('zset-i', 0, -1, withscores=True)
+    * zadd zset-1 1 a 2 b 3 c
+    * zadd zset-2 4 b 1 c 0 d
+    * zinterstore zset-i 2 zset-1 zset-2
+    * zrange zset-i 0 -1 withscores
 
 2. After executing following three commands in REDIS what’ll be the o/p of last command? Describe all of the commands.
     * RPUSH mylist "Hello"
