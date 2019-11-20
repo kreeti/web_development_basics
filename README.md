@@ -1,16 +1,14 @@
 # web_development_basics
 
-1. <a href="/html">HTML Basics</a>
-2. <a href="/css">CSS Basics</a>
-3. <a href="/javascript">Javascript Intermediate</a>
-4. <a href="/rdbms-redis">RDBMS / Redis - NOSQL</a>
-5. <a href="/ruby">Ruby</a>
-6. <a href="/css-scss-advance">CSS/SCSS Advanced</a>
-7. <a href="/rails-basic">Rails Basics</a>
-8. <a href="/javascript-eS6-advanced">Javascript /ES6 Advanced</a>
-9. <a href="/react-basic">React Basics</a>
-10. <a href="/rails-advance">Rails Advance</a>
-11. <a href="/react-advance">React Advance</a>
+1. <a href="/html">HTML</a>
+2. <a href="/css-basic">CSS Basics</a>
+3. <a href="/css-advance">CSS Advance</a>
+4. <a href="/javascript">Javascript</a>
+5. <a href="/rdbms-redis">RDBMS / Redis - NOSQL</a>
+6. <a href="/ruby">Ruby</a>
+7. <a href="/rails">Rails</a>
+8. <a href="/deployment-and-others">Deployment and Others</a>
+9. <a href="/react">React</a>
 
 <a href="/project_guideline.md">Project Guidelines</a>
 
