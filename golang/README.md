@@ -32,6 +32,10 @@
   - Adding, editing and deleting values
 - Ranges
 - Structs
+  - Declaration
+  - Embedded Structs
+  - Anonymous Structs
+
 
 ### Operations
 
@@ -41,3 +45,11 @@
 #### References
 
 -   [https://tour.golang.org/](https://tour.golang.org/)
+
+#### Documentation
+- [Golang Docs](https://golang.org/doc/)
+- [Effective Go](https://golang.org/doc/effective_go.html)
+- [Package Documentation](https://golang.org/pkg/go/doc/)
+
+#### Go Playground
+  - https://play.golang.org/
