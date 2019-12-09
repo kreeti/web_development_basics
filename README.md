@@ -9,6 +9,7 @@
 7. <a href="/rails">Rails</a>
 8. <a href="/deployment-and-others">Deployment and Others</a>
 9. <a href="/react">React</a>
+10. <a href="/elixir">Elixir</a>
 
 <a href="/project_guideline.md">Project Guidelines</a>
 
