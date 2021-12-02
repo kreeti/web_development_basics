@@ -11,6 +11,7 @@
 9. <a href="/react">React</a>
 10. <a href="/elixir">Elixir</a>
 11. <a href="/phoenix">Phoenix Framework</a>
+12. <a href="/devops">Devlopment Operations(DevOps)</a>
 
 <a href="/project_guideline.md">Project Guidelines</a>
 
