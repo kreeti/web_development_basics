@@ -1,15 +1,17 @@
 # Development Operations(Devops) Syllabus
 
 ## PREREQUISITES FOR THE COURSE
-  - Sound knowledge of different Operating System (Unix based)
+  - Sound knowledge of Linux Operating System
   - Familiarity of using command line interface
-  - Basic knowledge of cli commands (Unix based)
-  - Knowledge of directory structure of Unix like Operating System
+  - Basic knowledge of cli commands (Linux based)
+  - Knowledge of directory structure of Linux Operating System
 
 ## SYLLABUS
-### Basic knowledge of Unix like Operating System
+### Basic knowledge of Linux Operating System
 - Booting steps
 - Directry structure
+- file & file type
+- Concept of inode
 
 ### Basic Network Knowledge
 - Commands to monitor network configuration of OS
