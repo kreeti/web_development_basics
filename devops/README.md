@@ -7,9 +7,9 @@
   - Knowledge of directory structure of Unix like Operating System
 
 ## SYLLABUS
-  ### Basic knowledge of Unix like Operating System
-     - Booting steps
-     - Directry structure
+### Basic knowledge of Unix like Operating System
+* Booting steps
+* Directry structure
 
   ### Basic Network Knowledge
      - Commands to monitor network configuration of OS
