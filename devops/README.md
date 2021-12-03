@@ -18,5 +18,5 @@
 ### Bash programming knowledge
 
 ### Infrastructure Management (ADVANCE Level)
-     - Docker
-     - AWS
+- Docker
+- AWS
