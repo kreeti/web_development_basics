@@ -29,11 +29,17 @@
 
 ### Infrastructure Management (ADVANCE Level)
 - Docker
-- AWS
+- AWS Services
+  - VPC, Security Groups, Subnet
+  - IAM, Roles and Policies
+  - S3
+  - EC2
+  - RDS
+  - ECS, ECR
 
 ###  Continuous integration/continuous delivery (Expert Level)
 - What is CI/CD
 - What tools are used in CI/CD
-- Demonstation on Github CI/CD process
+- Github CI/CD process
 
 ### Real life project on CI/CD
