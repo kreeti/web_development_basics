@@ -8,17 +8,38 @@
 
 ## SYLLABUS
 ### Basic knowledge of Linux Operating System
-- Booting steps
 - Directry structure
 - file & file type
-- Concept of inode
+- Basic Linux commands
 
 ### Basic Network Knowledge
-- Commands to monitor network configuration of OS
-- Commands to modify network configuration of OS
+- Type of Network (Used in day to day life)
+- Network equipments (Used in day to day life)
+- Network configuration in Linux OS
+- Troubleshooting methods for common network problem in Linux OS.
 
 ### Bash programming knowledge
+- Shell Variables
+- Interactive Shell Script
+- Passing Command Line Argumests
+- Basic Arithmetic in Shell Script
+- Taking Decisions
+- Loop
+- Functions
 
 ### Infrastructure Management (ADVANCE Level)
 - Docker
-- AWS
+- AWS Services
+  - VPC, Security Groups, Subnet
+  - IAM, Roles and Policies
+  - S3
+  - EC2
+  - RDS
+  - ECS, ECR
+
+###  Continuous integration/continuous delivery (Expert Level)
+- What is CI/CD
+- What tools are used in CI/CD
+- Github CI/CD process
+
+### Real life project on CI/CD
