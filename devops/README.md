@@ -1,45 +1,45 @@
 # Development Operations(Devops) Syllabus
 
 ## PREREQUISITES FOR THE COURSE
-  - Sound knowledge of Linux Operating System
-  - Familiarity of using command line interface
-  - Basic knowledge of cli commands (Linux based)
-  - Knowledge of directory structure of Linux Operating System
+- Sound knowledge of Linux Operating System
+- Familiarity of using command line interface
+- Basic knowledge of cli commands (Linux based)
+- Knowledge of directory structure of Linux Operating System
 
 ## SYLLABUS
-### Basic knowledge of Linux Operating System
-- Directry structure
+### Basic knowledge of Linux Operating System          [1 day]
+- Directory structure
 - file & file type
 - Basic Linux commands
 
-### Basic Network Knowledge
+### Basic Network Knowledge                                        [2 days]
 - Type of Network (Used in day to day life)
 - Network equipments (Used in day to day life)
 - Network configuration in Linux OS
-- Troubleshooting methods for common network problem in Linux OS.
+- Troubleshooting methods for common network problems in Linux OS.
 
-### Bash programming knowledge
+### Bash programming knowledge                                [7 days]
 - Shell Variables
 - Interactive Shell Script
-- Passing Command Line Argumests
+- Passing Command Line Arguments
 - Basic Arithmetic in Shell Script
 - Taking Decisions
 - Loop
 - Functions
 
-### Infrastructure Management (ADVANCE Level)
-- Docker
-- AWS Services
-  - VPC, Security Groups, Subnet
-  - IAM, Roles and Policies
-  - S3
-  - EC2
-  - RDS
-  - ECS, ECR
+### Infrastructure Management (ADVANCE Level)           [3 week]
+- Docker    [1 week]
+- AWS Services  [2 weeks]
+ - VPC, Security Groups, Subnet
+ - IAM, Roles and Policies
+ - S3
+ - EC2
+ - RDS
+ - ECS, ECR
+### Continuous integration/continuous delivery (Expert Level) [2 weeks]
+- What is CI/CD   [1 days]
+- What tools are used in CI/CD  [1 days]
+- Github CI/CD process [7 days]
 
-###  Continuous integration/continuous delivery (Expert Level)
-- What is CI/CD
-- What tools are used in CI/CD
-- Github CI/CD process
+### Real life project on CI/CD and deploying to ECS - Free AWS account needed
 
-### Real life project on CI/CD
