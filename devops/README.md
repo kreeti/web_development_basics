@@ -38,9 +38,9 @@
  - ECS, ECR
 
 ### Continuous integration/continuous delivery [2 weeks]
-- What is CI/CD   [1 days]
-- What tools are used in CI/CD  [1 days]
-- Github Actions CI/CD process [7 days]
+- What is CI/CD   [1 day]
+- What tools are used in CI/CD - highlevel overview [1 day]
+- Github Actions CI/CD process - basics to implementation level [1 week]
 
 ### Real life project on CI/CD and deploying to ECS - Free AWS account needed
 
