@@ -27,7 +27,7 @@
 - Loop
 - Functions
 
-### Infrastructure Management (ADVANCE Level)           [3 week]
+### Infrastructure Management          [3 week]
 - Docker    [1 week]
 - AWS Services  [2 weeks]
  - VPC, Security Groups, Subnet
@@ -36,7 +36,8 @@
  - EC2
  - RDS
  - ECS, ECR
-### Continuous integration/continuous delivery (Expert Level) [2 weeks]
+
+### Continuous integration/continuous delivery [2 weeks]
 - What is CI/CD   [1 days]
 - What tools are used in CI/CD  [1 days]
 - Github CI/CD process [7 days]
