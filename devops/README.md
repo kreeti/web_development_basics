@@ -40,7 +40,7 @@
 ### Continuous integration/continuous delivery [2 weeks]
 - What is CI/CD   [1 days]
 - What tools are used in CI/CD  [1 days]
-- Github CI/CD process [7 days]
+- Github Actions CI/CD process [7 days]
 
 ### Real life project on CI/CD and deploying to ECS - Free AWS account needed
 
