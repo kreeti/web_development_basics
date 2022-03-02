@@ -42,5 +42,5 @@
 - What tools are used in CI/CD - highlevel overview [1 day]
 - Github Actions CI/CD process - basics to implementation level [1 week]
 
-### Real life project on CI/CD and deploying to ECS - Free AWS account needed
+### Project on CI/CD and deploying to ECS - Free AWS account needed
 
