@@ -23,7 +23,7 @@ In this module, CSS transitions provide a way to control animation speed when ch
 - [Transition](https://www.w3schools.com/css/css3_transitions.asp)
 - [Animation](https://www.w3schools.com/css/css3_animations.asp)
 
-### Module 5: Bootstrap 4
+### Module 5: Bootstrap 5
 In this module, Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
 - [Layout](https://getbootstrap.com/docs/4.0/layout/overview/)
 - [Grid](https://getbootstrap.com/docs/4.0/layout/grid/)
